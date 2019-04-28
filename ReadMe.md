@@ -10,4 +10,4 @@ This is a simple GUI application. Given an input file name, it traverses through
 
 
 ![FileSearchOutput](FileSearch.JPG)
-_Output would be like this, where in you can search
+Output would be like this, where in you can search.
